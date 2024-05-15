@@ -1,5 +1,5 @@
 import Image from "next/image";
-import CountdownTimer from "./countdowntimer";
+import CountdownTimer from "./CountdownTimer";
 
 export default function Home() {
 	return (
